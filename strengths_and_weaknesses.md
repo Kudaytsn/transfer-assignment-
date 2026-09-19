@@ -1,2 +1,3 @@
 ## Strengths 
+* Distributed Architecture
 ## Weaknesses 
